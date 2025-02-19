@@ -59,9 +59,9 @@ def main(pcd_path, output_path, n=0, cut_percentage=60, scale_factor=5, fillrgb_
 
 if __name__ == "__main__":
     # PROCESO PARA UNA SOLA NUBE
-    pcd_path = "data/POP2/banana/cat4/pcd/1_pc.ply"
-    output_path = "data/POP2/banana/cat4/"
-    main(pcd_path, output_path,cut_percentage=0, scale_factor=10)
+    pcd_path = "data/POP2/mango/pcd/1209_02_pc.ply"
+    output_path = "data/POP2/mango/"
+    main(pcd_path, output_path,cut_percentage=50, scale_factor=10)
 
     # # PROCESO PARA VARIAS NUBES
     # output_path = "data/POP2/mango/"
