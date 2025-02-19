@@ -112,8 +112,8 @@ Fruit-Ripeness/
 │   ├── util.py               # Funciones auxiliares (recorte, cambio de color, etc.)
 │   └── capture3d.py          # Funciones para capturar múltiples vistas de la nube de puntos
 └── data/
-    ├── POP2/
-    └── mango/
+    └── POP2/
+        └── mango/
 ```
 
 ### Descripción de Archivos
